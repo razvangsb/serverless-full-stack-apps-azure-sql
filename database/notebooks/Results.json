@@ -1,0 +1,38 @@
+[
+  {
+    "TABLE_CATALOG": "bus-db",
+    "TABLE_SCHEMA": "dbo",
+    "TABLE_NAME": "Routes",
+    "TABLE_TYPE": "BASE TABLE"
+  },
+  {
+    "TABLE_CATALOG": "bus-db",
+    "TABLE_SCHEMA": "dbo",
+    "TABLE_NAME": "MonitoredRoutes",
+    "TABLE_TYPE": "BASE TABLE"
+  },
+  {
+    "TABLE_CATALOG": "bus-db",
+    "TABLE_SCHEMA": "dbo",
+    "TABLE_NAME": "GeoFences",
+    "TABLE_TYPE": "BASE TABLE"
+  },
+  {
+    "TABLE_CATALOG": "bus-db",
+    "TABLE_SCHEMA": "dbo",
+    "TABLE_NAME": "GeoFencesActive",
+    "TABLE_TYPE": "BASE TABLE"
+  },
+  {
+    "TABLE_CATALOG": "bus-db",
+    "TABLE_SCHEMA": "dbo",
+    "TABLE_NAME": "GeoFencesActiveHistory",
+    "TABLE_TYPE": "BASE TABLE"
+  },
+  {
+    "TABLE_CATALOG": "bus-db",
+    "TABLE_SCHEMA": "dbo",
+    "TABLE_NAME": "BusData",
+    "TABLE_TYPE": "BASE TABLE"
+  }
+]
